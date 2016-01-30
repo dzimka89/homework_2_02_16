@@ -1,4 +1,4 @@
-
+00
 1) What will be the output of the program?
 
 class A 
